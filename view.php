@@ -76,7 +76,7 @@ if ($multipage->intro) {
 }
 
 // Replace the following lines with your own code.
-echo $OUTPUT->heading('Yay! It works!');
+echo $OUTPUT->heading('Yay! It also works on Frank's PC!');
 
 // Finish the page.
 echo $OUTPUT->footer();
